@@ -1,1 +1,2 @@
-# NLP-Fake-News-vs-Real-News
+# Natural Language Processing: Fake News vs Real News
+
