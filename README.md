@@ -1,2 +1,2 @@
-# Natural Language Processing: Fake News vs Real News
+# Natural Language Processing: Sentiment Analysis - Product Text Reviews
 
